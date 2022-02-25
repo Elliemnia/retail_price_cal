@@ -1,0 +1,12 @@
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\bin\Debug\Unit4_Function_Assignment.exe.config
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\bin\Debug\Unit4_Function_Assignment.exe
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\bin\Debug\Unit4_Function_Assignment.pdb
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\bin\Debug\Unit4_Function_Assignment.xml
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\obj\Debug\Unit4_Function_Assignment.vbprojAssemblyReference.cache
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\obj\Debug\Unit4_Function_Assignment.Form1.resources
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\obj\Debug\Unit4_Function_Assignment.Resources.resources
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\obj\Debug\Unit4_Function_Assignment.vbproj.GenerateResource.cache
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\obj\Debug\Unit4_Function_Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\obj\Debug\Unit4_Function_Assignment.exe
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\obj\Debug\Unit4_Function_Assignment.xml
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Unit4_Function_Assignment\Unit4_Function_Assignment\obj\Debug\Unit4_Function_Assignment.pdb
